@@ -10,7 +10,7 @@ This is the course webpage for MF20006: Introduction to Computer Science for und
 
 | Date | Week | Topic | Materials | Discussion |
 |:---------:|:---------:|:---------:|:------------------:|:---------:|
-| Sep 4  |  1 |  |  |  |
+| Sep 4  |  1 |  |  | [discussion](https://hackmd.io/@9byfE-9jSZ2VnLYotBRUlA/BkdneOYUzx) |
 | Sep 11 |  2 |  |  |  |
 | Sep 18 |  3 |  |  |  |
 | Sep 25 |  4 |  |  |  |
