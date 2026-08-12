@@ -1,0 +1,55 @@
+site_name: Introduction to Computer Science (Fudan University, Autumn 2025)
+site_url: https://intro2cs.github.io/
+
+theme:
+  name: material
+  language: en
+  static_templates:
+    - 404.html
+  include_search_page: false
+  search_index_only: true
+  custom_dir: overrides
+
+  features:
+    - header.autohide
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  font:
+    text: Roboto Slab
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - footnotes
+
+plugins:
+  - search:
+      lang:
+        - en
+  - git-revision-date:
+  - minify:
+      minify_html: true
+  - open-in-new-tab:
+
+nav:
+  - Course Info: "index.md"

@@ -1,2 +1,35 @@
-
+# macOS
 .DS_Store
+**/.DS_Store
+
+# MkDocs
+site/
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+Gemfile.lock
+
+# Backup files
+*.backup
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+.venv/
+
+.idea/
+.vscode/
+.cursor/
+*.swp
+
+.env
+.env.local
