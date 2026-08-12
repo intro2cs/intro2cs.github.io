@@ -10,7 +10,7 @@ This is the course webpage for MF20006: Introduction to Computer Science for und
 
 | Date | Week | Topic | Materials | Discussion |
 |:---------:|:---------:|:---------:|:------------------:|:---------:|
-| Sep 10 |  1 |  |  | [discussion](https://hackmd.io/@9byfE-9jSZ2VnLYotBRUlA/BkdneOYUzx) |
+| Sep 10 |  1 | Numbers and Computation |  | [discussion](https://www.yuque.com/g/hxuhack/vu3e0o/pm867h7rpzowxw0f/collaborator/join?token=WzHMvRBWyCiqIAjN&source=doc_collaborator) |
 | Sep 17 |  2 |  |  |  |
 | Sep 24 |  3 |  |  |  |
 | Oct 1  |  4 |  |  |  |
