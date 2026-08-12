@@ -1,5 +1,7 @@
 site_name: Introduction to Computer Science (Fudan University, Autumn 2025)
 site_url: https://intro2cs.github.io/
+repo_url: https://github.com/intro2cs/intro2cs.github.io
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -18,6 +20,7 @@ theme:
     - search.share
     - search.suggest
     - content.code.annotate
+    - content.action.edit
 
   palette:
     - media: "(prefers-color-scheme: light)"
