@@ -3,7 +3,7 @@
 This is the course webpage for MF20006: Introduction to Computer Science for undergraduate students at Fudan University in Autumn 2026.
 
 **Classroom**: H6305  
-**Time**: Thursday 1:30pm-4:10pm  
+**Time**: Thursday 6:30pm-9:05pm  
 **Instructor** [Hui Xu](https://hxuhack.github.io)  
 **Tutor** Yilin Chen  
 
