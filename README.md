@@ -13,7 +13,7 @@ This is the course webpage for MF20006: Introduction to Computer Science for und
 |:---------:|:---------:|:---------:|:------------------:|
 | Sep 10 |  1 | Numbers and Computation | [intro slides](slides/l0-intro-slides.pdf), [notes](notes/l1-numbers-notes.pdf), [slides](slides/l1-numbers-slides.pdf) |
 | Sep 17 |  2 | Computer Architecture | [slides](slides/l2-arch-slides.pdf), [notes](notes/l2-arch-notes.pdf) |
-| Sep 24 |  3 | The Internet and the Web |  |
+| Sep 24 |  3 | Computer Networks | [slides](slides/l3-networks-slides.pdf), [notes](notes/l3-networks-notes.pdf) |
 | Oct 1  |  4 | National Day Holiday |  |
 | Oct 8  |  5 | Programming Languages and Compilers |  |
 | Oct 15 |  6 | Data Structures |  |
