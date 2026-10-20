@@ -17,7 +17,7 @@ This is the course webpage for MF20006: Introduction to Computer Science for und
 | Oct 1  |  4 | National Day Holiday |  |
 | Oct 8  |  5 | Programming Languages | [slides](slides/l4-proglang-slides.pdf), [notes](notes/l4-proglang-notes.pdf) |
 | Oct 15 |  6 | Data Structures | [slides](slides/l5-data_structures-slides.pdf), [notes](notes/l5-data_structures.notes.pdf) |
-| Oct 22 |  7 | Algorithms - I |  |
+| Oct 22 |  7 | Algorithms - I | [slides](slides/l6-algo1-slides.pdf), [notes](notes/l6-algo1-notes.pdf) |
 | Oct 29 |  8 | Algorithms - II |  |
 | Nov 5  |  9 | Artificial Intelligence - I |  |
 | Nov 12 | 10 | Artificial Intelligence - II |  |
