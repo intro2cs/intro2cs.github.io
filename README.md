@@ -20,7 +20,7 @@ This is the course webpage for MF20006: Introduction to Computer Science for und
 | Oct 22 |  7 | Algorithms - I | [slides](slides/l6-algo1-slides.pdf), [notes](notes/l6-algo1-notes.pdf) |
 | Oct 29 |  8 | Algorithms - II | [slides](slides/l7-algo2-slides.pdf), [notes](notes/l7-algo2-notes.pdf) |
 | Nov 5  |  9 | Artificial Intelligence - I | [slides](slides/l8-ai1-slides.pdf), [notes](notes/l8-ai1-notes.pdf) |
-| Nov 12 | 10 | Artificial Intelligence - II |  |
+| Nov 12 | 10 | Artificial Intelligence - II | [slides](slides/l9-ai2-slides.pdf), [notes](notes/l9-ai2-notes.pdf) |
 | Nov 19 | 11 | Application Software - Frontend |  |
 | Nov 26 | 12 | Application Software - Backend |  |
 | Dec 3  | 13 | Project Proposal |  |
