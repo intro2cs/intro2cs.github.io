@@ -22,7 +22,7 @@ This is the course webpage for MF20006: Introduction to Computer Science for und
 | Nov 5  |  9 | Artificial Intelligence - I | [slides](slides/l8-ai1-slides.pdf), [notes](notes/l8-ai1-notes.pdf) |
 | Nov 12 | 10 | Artificial Intelligence - II | [slides](slides/l9-ai2-slides.pdf), [notes](notes/l9-ai2-notes.pdf) |
 | Nov 19 | 11 | Application Software - Frontend | [slides](slides/l10-frontend-slides.html) |
-| Nov 26 | 12 | Application Software - Backend |  |
+| Nov 26 | 12 | Application Software - Backend | [slides](slides/l11-backend-slides.html) |
 | Dec 3  | 13 | Project Proposal |  |
 | Dec 10 | 14 | Multimedia and Signals |  |
 | Dec 17 | 15 | Cryptography |  |
